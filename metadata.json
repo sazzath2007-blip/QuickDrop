@@ -1,0 +1,5 @@
+{
+  "name": "QuickDrop",
+  "description": "Send and receive files securely using a simple 6-digit code.",
+  "requestFramePermissions": []
+}
